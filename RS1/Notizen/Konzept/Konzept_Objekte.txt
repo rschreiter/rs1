@@ -1,0 +1,29 @@
+EDV-Objekte
+  Drucker
+  AD-Gruppen
+  AD-Kontakt
+  AD-Computer
+  Tif-Drucker
+  PDF-Drucker
+  Word-Dokument
+  Excel-Dokument
+  
+LANDesk-Objekte
+
+Mobillity-Objekte
+
+VM-Objekte
+
+SW-Verteilungsobjekte
+  Thin-App-Packet
+  MSI-Packete
+  EXE-Packet
+  
+DM-Objekte (Dokumentenmanagement)
+  Briefkorb
+  Archiv
+  DW-Benutzer
+  Archiv Profile
+  
+Server-Objekte
+Server Tasks

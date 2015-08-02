@@ -1,0 +1,6 @@
+Zugriff auf SQL-DB
+Einfache Grafische Oberfläche
+Grundlagen von Java
+	if
+	for
+	while

@@ -1,0 +1,24 @@
+eTEST auf der Konsole
+	$errorlevel
+	stdin
+	stdout
+	stderr
+	
+	...
+	
+Schreiben in eine Text-Datei
+Lesen aus einer Text-Datei
+...
+
+
+
+............
+
+Umgang mit einem Array
+Umgang mit einer Liste
+
+-----
+verwendung von Threats
+
+----
+

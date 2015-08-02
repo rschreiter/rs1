@@ -1,0 +1,15 @@
+Projekte:
+	Eigenes Repository
+	
+	
+-----------------
+Umgang mit Files
+Copieren von Files
+Ermitteln von Name, Pfad, Groesse ....
+
+
+Umgang mit SQL-DB's
+	Schreiben in DB, Lesen aus DB
+	
+Generieren von SQL-Statements (z.B. Select-Abfragen)
+
